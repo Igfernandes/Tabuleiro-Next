@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Projetos de estudo",
+  "main": "app,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igfernandes/React-Projects.git"
+  },
+  "keywords": [
+    "React",
+    "study",
+    "js"
+  ],
+  "author": "Igor Fernandes Barreto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igfernandes/React-Projects/issues"
+  },
+  "homepage": "https://github.com/Igfernandes/React-Projects#readme"
+}
